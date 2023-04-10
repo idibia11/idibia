@@ -1,0 +1,23 @@
+p{
+    font-size: 24px;
+    font-weight: 800;
+    margin-top: 2em;
+    color: rgb(7, 9, 9);
+}
+nav ul li {
+    display: inline block;
+    margin-right: 5rem;
+}
+ul{
+    text-decoration-line: overline;
+    color: rgb(68, 35, 35);
+    font-weight: 900;
+}
+form {
+    background-color: pink;
+    width: 800px;
+    height: 300px;
+    margin: auto;
+    font-size: 50px;
+    text-align: center;
+}
